@@ -1,2 +1,3 @@
 # New project
-this project is created by Vaibhav from local system.
+this project is created in local system.
+Created by Vaibhav Kumar.
